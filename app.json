@@ -1,0 +1,14 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/home/home"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "rgb(158, 214, 222)",
+    "navigationBarTitleText": "我们的故事",
+    "navigationBarTextStyle":"black"
+  },
+  "debug": true
+}

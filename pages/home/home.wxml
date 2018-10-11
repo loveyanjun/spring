@@ -1,0 +1,11 @@
+<!-- home页面 -->
+<view class="home">
+    <view class="header">
+        <view class="header-selected" bindtap="onPickOption">选中的项</view>
+        <view class="header-options {{needAnimation ? (openPicker ? 'slidown' : 'slidup') : ''}}">
+            <view class="option">选项一</view>
+            <view class="option">选项二</view>
+            <view class="option">选项三</view>
+        </view>
+    </view>
+</view>

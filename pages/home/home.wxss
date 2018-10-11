@@ -1,0 +1,21 @@
+/* home.wxss */
+.home {
+    background: #eee;
+    /* font-size: 13rpx; */
+}
+.header {
+    background: #f0f;
+}
+.header-selected {
+    background: yellow;
+}
+.header-options {
+    background: #0f0;
+}
+.slidown {
+    background: #a0f;
+}
+
+.slidup {
+    background: #b0a;
+}
